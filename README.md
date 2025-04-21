@@ -4,9 +4,9 @@ This repository contains the PDF report of the Data Cleaning conducted as part o
 ### **Objective:**                                                                                                                                                                         
               Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats)                                   
 ### **Tools used:**
-              Python (Pandas)                                                                                                         
-              Jupyter(To write and execute python code)                                                                                 
-              Kaggle(to download datasets)                                                                                                 
+              Python (Pandas)                                                    
+              Jupyter(To write and execute python code)                                  
+              Kaggle(to download datasets)                                      
 I cleaned The  netflix data using python(pandas) in Jupyter Notebook                          
 
 # **InterView Questions**                                                                    
