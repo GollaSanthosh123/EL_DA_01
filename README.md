@@ -2,7 +2,7 @@
                                                                                                                                                               
 This repository contains the PDF report of the Data Cleaning conducted as part of Task 01.
 ### **Objective:**                                                                                                                                                                         
-              Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats)           
+              Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats) 
 ### **Tools used:**
               Python (Pandas)                                                    
               Jupyter(To write and execute python code)                                  
